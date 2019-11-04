@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "5dbfae53b0fe400006b91dc0",
+    "Name": "Design Patterns",
+    "Price": 54.93,
+    "Category": "Computers",
+    "Author": "Ralph Johnson"
+  },
+  {
+    "Id": "5dbfae53b0fe400006b91dc1",
+    "Name": "Clean Code",
+    "Price": 43.15,
+    "Category": "Computers",
+    "Author": "Robert C. Martin"
+  },
+  {
+    "Id": "5dbfb73bcfb16a0b10a8bc10",
+    "Name": "React Native",
+    "Price": 22.87,
+    "Category": "Computers",
+    "Author": "Daniel Leal"
+  }
+]
